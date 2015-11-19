@@ -7,6 +7,7 @@ from pprint import pprint
 app_path = "MyTestApp/mytestapp"
 
 filenames = [f for f in os.listdir(".") if f[-4:] == ".png"]
+filenames.sort()
 
 for name in filenames:
     im = Image.open(name)
