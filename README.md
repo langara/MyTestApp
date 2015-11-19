@@ -1,6 +1,6 @@
 # MyTestApp
 
-A test app for MyBlocks [My Blocks](https://github.com/langara/MyBlocks) library.
+A test app for [My Blocks](https://github.com/langara/MyBlocks) library.
 
 It is a fork of MyBlocks library configured to run a test activity (MyTestActivity).
 
@@ -41,7 +41,6 @@ It allows to test features like:
 
 ###### Nexus 4 landscape
 
-
 [![device-nexus4-land-2015-11-16-204329.png](screenshots/thumbnails/device-nexus4-land-2015-11-16-204329.png)](https://raw.githubusercontent.com/langara/MyTestApp/mytestapp/screenshots/device-nexus4-land-2015-11-16-204329.png)
 [![device-nexus4-land-2015-11-16-204401.png](screenshots/thumbnails/device-nexus4-land-2015-11-16-204401.png)](https://raw.githubusercontent.com/langara/MyTestApp/mytestapp/screenshots/device-nexus4-land-2015-11-16-204401.png)
 [![device-nexus4-land-2015-11-16-204438.png](screenshots/thumbnails/device-nexus4-land-2015-11-16-204438.png)](https://raw.githubusercontent.com/langara/MyTestApp/mytestapp/screenshots/device-nexus4-land-2015-11-16-204438.png)
@@ -81,7 +80,7 @@ It allows to test features like:
 
 
 
-###### MyTab landscape
+###### MyTab 10 Q landscape
 
 
 [![device-mytab-land-2015-11-16-163744.png](screenshots/thumbnails/device-mytab-land-2015-11-16-163744.png)](https://raw.githubusercontent.com/langara/MyTestApp/mytestapp/screenshots/device-mytab-land-2015-11-16-163744.png)
