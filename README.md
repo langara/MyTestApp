@@ -16,9 +16,14 @@ It allows to test features like:
 * Animations, fragment transitions etc..
 * And more..
 
+#### Google Play
 
-* TODO: link to Google Play
-* TODO: link to record screen video
+* [My Test App (on google play)](https://play.google.com/store/apps/details?id=pl.mareklangiewicz.mytestapp) 
+
+
+#### Youtube
+
+* [My Test App (on youtube)](https://www.youtube.com/watch?v=B9FPWpQYMuc) 
 
 
 #### Screenshots
