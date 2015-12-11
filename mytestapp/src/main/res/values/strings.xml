@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">MyTestApp</string>
-    <string name="title_my_test_activity">MyTestActivity</string>
-    <string name="title_my_example_activity">MyExampleActivity</string>
-    <string name="title_my_example_activity_2">MyExampleActivity2</string>
+    <string name="mt_app_name">MyTestApp</string>
+    <string name="mt_title_my_test_activity">MyTestActivity</string>
+    <string name="mt_title_my_example_activity">MyExampleActivity</string>
+    <string name="mt_title_my_example_activity_2">MyExampleActivity2</string>
 </resources>

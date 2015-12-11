@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="AppTheme"
+    <style name="mt_AppTheme"
         parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="colorPrimary">@color/my_default_primary</item>
-        <item name="colorPrimaryDark">@color/my_default_primary_dark</item>
-        <item name="colorAccent">@color/my_default_accent</item>
-        <item name="android:windowTranslucentStatus">@bool/window_transluctent_status</item>
+        <item name="colorPrimary">@color/mt_my_primary</item>
+        <item name="colorPrimaryDark">@color/mt_my_primary_dark</item>
+        <item name="colorAccent">@color/mt_my_accent</item>
+        <item name="android:windowTranslucentStatus">@bool/mt_window_transluctent_status</item>
     </style>
 </resources>

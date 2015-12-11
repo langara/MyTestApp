@@ -1,11 +1,14 @@
 <resources>
 
-    <style name="AppTheme"
+    <style name="mt_AppTheme"
         parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="colorPrimary">@color/my_primary</item>
-        <item name="colorPrimaryDark">@color/my_primary_dark</item>
-        <item name="colorAccent">@color/my_accent</item>
+        <item name="colorPrimary">@color/mt_my_primary</item>
+        <item name="colorPrimaryDark">@color/mt_my_primary_dark</item>
+        <item name="colorAccent">@color/mt_my_accent</item>
     </style>
+    <color name="mt_my_primary">#ff00a0ff</color>
+    <color name="mt_my_primary_dark">#ff0040a0</color>
+    <color name="mt_my_accent">#fff02020</color>
 
-    <bool name="window_transluctent_status">true</bool>
+    <bool name="mt_window_transluctent_status">true</bool>
 </resources>
