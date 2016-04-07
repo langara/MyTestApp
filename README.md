@@ -1,5 +1,7 @@
 # MyTestApp
 
+#### IMPORTANT: This app is deprecated. Go to [MyIntent](https://github.com/langara/MyIntent) instead.
+
 A test app for [My Blocks](https://github.com/langara/MyBlocks) library.
 
 It is a fork of MyBlocks library configured to run a test activity (MyTestActivity).
